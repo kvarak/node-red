@@ -4,7 +4,7 @@ The standard node-red for Pi with some extra nodes.
 
 ## Base
 
-node-red: [`nodered/node-red:1.0.1-10-minimal-arm32v6`](https://hub.docker.com/r/nodered/node-red)
+node-red: [`nodered/node-red:1.2.8-12-minimal-arm32v6`](https://hub.docker.com/r/nodered/node-red)
 
 ## Components
 
