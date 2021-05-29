@@ -1,6 +1,6 @@
 # node-red
 
-The standard node-red for Pi with some extra nodes.
+The standard node-red for Pi with some extra components.
 
 ## Base
 
@@ -9,6 +9,7 @@ node-red: [`nodered/node-red:1.2.8-12-minimal-arm32v6`](https://hub.docker.com/r
 ## Components
 
 - [node-red-contrib-bigtimer](https://flows.nodered.org/node/node-red-contrib-bigtimer)
+- [node-red-contrib-deconz](https://flows.nodered.org/node/node-red-contrib-deconz)
 
 ## Usage
 

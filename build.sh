@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-VERSION=0.2
+VERSION=0.3
 
 if [ "$1" == "build" ] ; then
     docker build -t kvarak/node-red:latest -t kvarak/node-red:$VERSION .
